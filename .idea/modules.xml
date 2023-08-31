@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/spring_security_course.iml" filepath="$PROJECT_DIR$/.idea/spring_security_course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ss_2022_c1_e1/ss_2022_c1_e1.iml" filepath="$PROJECT_DIR$/ss_2022_c1_e1/ss_2022_c1_e1.iml" />
+    </modules>
+  </component>
+</project>
